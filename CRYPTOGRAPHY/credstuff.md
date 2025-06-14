@@ -2,7 +2,7 @@
 
 ## Challenge 
 
-![credstuff](../../../../static/img/credstuff.PNG)
+![credstuff](../images/credstuff.PNG)
 
 In this challenge we have been given `leak.tar` file  , that file contains large number of usernames and passwords .
 

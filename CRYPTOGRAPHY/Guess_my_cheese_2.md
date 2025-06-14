@@ -34,7 +34,7 @@ Now, "XCV456" and "QWE789" are totally different, even though the original passw
 In short, salt adds an extra layer of randomness to make your hashed password much harder to crack.
 
 ### Solution 
-![guess my cheese](../../../../static/img/guessmycheese2img1.PNG)
+![guess my cheese](../images/guessmycheese2img1.PNG)
 
 As you can see it provides us some SHA-256 Hash and it’s clear that it’s salted.
 
@@ -199,6 +199,6 @@ After execution, this is the output
 
 We’ve finally obtained the cheese name and its corresponding salt in hexadecimal format, now let’s verify it!
 
-![guess my cheese](../../../../static/img/guessmycheesepart2img2.jpg)
+![guess my cheese](../images/guessmycheesepart2img2.jpg)
 
 Yeah! I got the Flag `picoCTF{cHeEsYaf31a5c0}`

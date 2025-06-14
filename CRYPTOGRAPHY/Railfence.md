@@ -2,7 +2,7 @@
 
 ### challenge 
 
-![rail-fence](../../../../static/img/railfence.PNG)
+![rail-fence](../images/railfence.PNG)
 
 **Given Message** : `Ta _7N6D8Dhlg:W3D_H3C31N__387ef sHR053F38N43DFD i33___N6`
 

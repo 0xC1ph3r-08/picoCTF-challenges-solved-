@@ -2,7 +2,7 @@
 
 ### Challenge 
 
-![challengeimage](../../../../static/img/readmycertt.PNG)
+![challengeimage](../images/readmycertt.PNG)
 
 # Hint 
 - Download the certificate signing request and try to read it.
@@ -26,7 +26,7 @@
 
     You'd save the provided CSR text into a file (let's say challenge.csr) and then run the openssl command.
 
-![readmycertimg2](../../../../static/img/readmycertimg2.PNG)
+![readmycertimg2](../images/readmycertimg2.PNG)
 
 4. The Flag 
 
